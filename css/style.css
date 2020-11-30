@@ -473,7 +473,8 @@ pre {
   flex-wrap: wrap;
   margin-right: -15px;
   margin-left: -15px;
-margin-top:50px}
+/* margin-top:50px */
+}
 
 .no-gutters {
   margin-right: 0;
